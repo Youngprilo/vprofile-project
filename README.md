@@ -5,6 +5,8 @@ A multi-tier Java web application deployed across 5 virtual machines using Vagra
 
 Stack
 VMHostnameIPRoleTechnologyWeb Serverweb01192.168.56.11Load Balancer / Reverse ProxyNginxApp Serverapp01192.168.56.12Java Application ServerTomcat 10Databasedb01192.168.56.15Relational DatabaseMySQL 8.0Cachemc01192.168.56.14Caching LayerMemcacheMessage Brokerrmq01192.168.56.16Message QueueRabbitMQ
+
+
 Prerequisites
 
 Vagrant 2.4+
