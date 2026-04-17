@@ -7,7 +7,7 @@ A multi-tier Java web application deployed across 5 virtual machines using Vagra
 <img width="1440" height="1228" alt="image" src="https://github.com/user-attachments/assets/ed8cac2e-cec8-4fda-b5c6-702551c2ddee" />
 
 
-```
+
 
 
 ## Stack
