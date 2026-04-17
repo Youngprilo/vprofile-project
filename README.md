@@ -156,6 +156,3 @@ vagrant destroy -f
 
 Micah Okemeje — [GitHub](https://github.com/Youngprilo)
 
-## Acknowledgements
-
-Based on the Vprofile project from Imran Teli's [Decoding DevOps](https://www.udemy.com/course/decodingdevops/) course on Udemy.
