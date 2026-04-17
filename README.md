@@ -8,10 +8,7 @@ A multi-tier Java web application deployed across 5 virtual machines using Vagra
 
 
 ```
-User → Nginx (web01) → Tomcat (app01) → MySQL (db01)
-                                      → Memcache (mc01)
-                                      → RabbitMQ (rmq01)
-```
+
 
 ## Stack
 
