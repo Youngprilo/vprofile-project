@@ -4,6 +4,9 @@ A multi-tier Java web application deployed across 5 virtual machines using Vagra
 
 ## Architecture Overview
 
+<img width="1440" height="1228" alt="image" src="https://github.com/user-attachments/assets/ed8cac2e-cec8-4fda-b5c6-702551c2ddee" />
+
+
 ```
 User → Nginx (web01) → Tomcat (app01) → MySQL (db01)
                                       → Memcache (mc01)
