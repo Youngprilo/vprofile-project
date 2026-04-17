@@ -1,4 +1,6 @@
 Vprofile Project
+
+
 A multi-tier Java web application deployed across 5 virtual machines using Vagrant and VMware Fusion. This project demonstrates real-world production architecture patterns used in enterprise environments.
 
 Stack
@@ -125,6 +127,4 @@ MySQL database administration
 Message broker setup with RabbitMQ
 
 Author
-Micah Okemeje — GitHub
-Acknowledgements
-Based on the Vprofile project from Imran Teli's Decoding DevOps course on Udemy.
+Micah Okemeje
